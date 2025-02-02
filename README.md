@@ -1,4 +1,14 @@
-## Hi there 👋
+## Why Here ¿ 🤔
+There must be something you couldn’t find on Google or ChatGPT ‼ OR You Have Lots of time ¡¡ 👀
+
+- 🔭 Still Learning...
+- 💻 Software Developer by Profession
+
+### 🌍 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahil-mandaliya/)  
+
+  
+
 
 <!--
 **Sahil-Mandaliya/Sahil-Mandaliya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
