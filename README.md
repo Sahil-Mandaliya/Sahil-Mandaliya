@@ -4,7 +4,7 @@ There must be something you couldn’t find on Google or ChatGPT ‼ OR You Have
 - 🔭 Still Learning...
 - 💻 Software Developer by Profession
 
-### 🌍 Connect with Me  
+### 🌍 Connect....
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahil-mandaliya/)  
 
   
