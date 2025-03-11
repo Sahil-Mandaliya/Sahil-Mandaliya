@@ -1,5 +1,4 @@
 ## Why Here ¿ 🤔
-There must be something you couldn’t find on Google or ChatGPT ‼ OR You Have Lots of time ¡¡ 👀
 
 - 🔭 Still Learning...
 - 💻 Software Developer by Profession
