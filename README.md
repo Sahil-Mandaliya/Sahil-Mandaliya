@@ -1,10 +1,13 @@
 #### Why Here ¿ 🤔
 
-- 🔭 Still Learning...
-- 💻 Software Developer by Profession
+- 🔭 Still learning 
+- 💻 Software Developer by profession
 
-### 🌍 Connect....
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/sahil-mandaliya/)  
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-mandaliya/)
 
   
 
